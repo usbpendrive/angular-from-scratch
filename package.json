@@ -19,7 +19,7 @@
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
-    "gulp": "^4.0.0",
+    "gulp": "^3.9.1",
     "typescript": "^3.2.2",
     "tslint": "^5.11.0",
     "gulp-tslint": "^8.1.3",
